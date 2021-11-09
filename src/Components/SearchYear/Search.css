@@ -1,0 +1,17 @@
+
+.search {
+    font-weight: bold;
+    background-color: #61dafb ;
+    cursor: pointer;
+    font-size: 20px;
+}
+.select_comp {
+    margin: 50px;
+}
+
+.msg_select_year {
+    font-size: 20px;
+    color: cornflowerblue;
+    font-weight: bold;
+
+}

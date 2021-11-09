@@ -1,0 +1,26 @@
+
+
+.total_number {
+    font-size: 20px;
+    font-weight: bold;
+    color: chocolate;
+}
+
+.filterByMass {
+    margin: 20px;
+}
+
+.err_msg {
+    background-color: red;
+    margin: 20px;
+}
+
+.total_number {
+
+}
+
+.search_term {
+    width: 200px;
+    height: 20px;
+    font-size: large;
+}
